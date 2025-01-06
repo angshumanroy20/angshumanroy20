@@ -118,9 +118,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=angshumanroy20&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=angshumanroy20&&style=flat-square" align="center" />
-</div>  
+<br><br>
+![](https://komarev.com/ghpvc/?username=angshumanroy20&color=blueviolet)
 
 </h3>
 
