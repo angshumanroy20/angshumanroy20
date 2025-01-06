@@ -119,7 +119,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=angshumanroy20&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <br><br>
-![](https://komarev.com/ghpvc/?username=angshumanroy20&color=blueviolet)
+[![Angshuman Roy profile views](https://u8views.com/api/v1/github/profiles/111134732/views/day-week-month-total-count.svg)](https://u8views.com/github/angshumanroy20)
 
 </h3>
 
